@@ -1,13 +1,13 @@
 
 import './App.css';
 import Carousel from './Components/Carousel';
-import Unsplash from './Components/Unsplash';
+import Navbar from './Components/Navbar';
 
 
 function App() {
   return (
     <div className="App">
-<Unsplash/>
+<Navbar/>
 <Carousel/>
     </div>
   );
